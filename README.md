@@ -1,301 +1,254 @@
-# Dex RoboKnix
+<pre align="center">
+██████╗ ███████╗██╗  ██╗    ██████╗  ██████╗ ██████╗  ██████╗ ██╗  ██╗███╗   ██╗██╗██╗  ██╗
+██╔══██╗██╔════╝╚██╗██╔╝    ██╔══██╗██╔═══██╗██╔══██╗██╔═══██╗██║ ██╔╝████╗  ██║██║╚██╗██╔╝
+██║  ██║█████╗   ╚███╔╝     ██████╔╝██║   ██║██████╔╝██║   ██║█████╔╝ ██╔██╗ ██║██║ ╚███╔╝
+██║  ██║██╔══╝   ██╔██╗     ██╔══██╗██║   ██║██╔══██╗██║   ██║██╔═██╗ ██║╚██╗██║██║ ██╔██╗
+██████╔╝███████╗██╔╝ ██╗    ██║  ██║╚██████╔╝██████╔╝╚██████╔╝██║  ██╗██║ ╚████║██║██╔╝ ██╗
+╚═════╝ ╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝ ╚═════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝
+</pre>
 
-> A cyberpunk framework for building cutting-edge cognitive tools through systematic knowledge transformation.
+<h3 align="center">
+  <code>CYBERPUNK FRAMEWORK FOR COGNITIVE TOOL EXPLOITATION</code>
+</h3>
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+<p align="center">
+  <em>All data is valid. Transformation creates value.</em>
+</p>
 
 ---
 
-## What is This?
+## Bidirectional Data Framework
 
-**Dex RoboKnix** is both a methodology and a framework for creating cognitive tools that exploit knowledge structures.
-
-It's built on the **Bidirectional Data Framework** — a six-layer system for decomposing complex systems into observable patterns (top-down) and recomposing patterns into actionable frameworks (bottom-up).
+<div align="center">
 
 ```
-VALUES ←→ PRINCIPLES ←→ POLICY ←→ PROCESS ←→ PROCEDURE ←→ PATTERN
+┌─────────────────────────────────────────────────────────────┐
+│              BIDIRECTIONAL DATA FRAMEWORK                   │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   [VALUES]      What we believe/stand for                   │
+│       ↕         Translation                                 │
+│   [PRINCIPLES]  How we think/decide                         │
+│       ↕         Specification                               │
+│   [POLICY]      What we mandate/allow                       │
+│       ↕         Operationalization                          │
+│   [PROCESS]     How we organize work                        │
+│       ↕         Codification                                │
+│   [PROCEDURE]   Specific steps/actions                      │
+│       ↕         Execution                                   │
+│   [PATTERN]     Observable behaviors/data                   │
+│                                                             │
+│  ◀━━━ RECOMPOSE (bottom-up) | DECOMPOSE (top-down) ━━━▶    │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
-**Each layer is an asset.** Each transformation between layers creates value.
+**Each layer is an asset. Both directions create value.**
+
+</div>
 
 ---
 
 ## Core Philosophy
 
-### All Data is Valid
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Inspired by Social Field Computing: treat all signals equally at collection. Value emerges through *transformation*, not from privileged sources.
+### 🔵 All Data is Valid
+Social Field Computing principle: "Not seeing the cat" = "seeing the cat" in raw validity.
 
-> "If we're building a machine to find lost cats, a signal from one person saying they haven't seen the cat is just as valuable as having seen the cat."
+Value emerges through **transformation**, not source authority.
 
-### Transformation is the Asset
+</td>
+<td width="50%" valign="top">
 
-Traditional approaches optimize for outcomes. Dex optimizes for *capturing the transformation process itself* as reusable, composable assets.
+### 🟢 Transformation is the Asset
+Traditional: capture outcomes.
+Dex: capture the **transformation process** as reusable asset.
 
-### Cyberpunk Toolbuilding
+Each layer produces capturable value.
 
-- DIY cutting-edge technology
-- Reverse-engineer and exploit knowledge structures
-- Terminal-first aesthetics
-- Open by default (GPL v3)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### Cognition-Lead, LLM-Widen
+### 🔴 Bidirectionality as Method
+Decompose (values → patterns).
+Recompose (patterns → values).
 
-Human provides direction, judgment, and creative leaps. LLMs expand scope, challenge assumptions, accelerate research, and document thinking.
+**Both directions create assets.**
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Cyberpunk Toolbuilding
+DIY cutting-edge technology.
+**Exploit** knowledge structures.
+
+Terminal-first. Open by default (GPL v3).
+
+</td>
+</tr>
+</table>
+
+---
+
+## Products Built on Dex RoboKnix
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🟡 RULIAD SWARM
+**Multi-Agent Decision Engine**
+
+```
+STATUS: CORE_FUNCTIONAL
+├── TUI: ████████░░ 80%
+├── SWARM: ██████████ 100%
+└── INTEGRATION: ████░░░░░░ 40%
+```
+
+8 parallel agents, orthogonal strategies, computational irreducibility in action.
+
+[**→ Repository**](https://github.com/danichese/Dex_RoboKnix_Ruliad)
+
+</td>
+<td align="center" width="50%">
+
+### ⚪ PRODUCT #2
+**[ PIPELINE ]**
+
+```
+STATUS: CONCEPTUAL
+├── VALUES: ██████████ 100%
+├── PRINCIPLES: ████████░░ 80%
+└── PATTERN: ░░░░░░░░░░ 0%
+```
+
+Needed for cross-domain validation. Selection criteria in [further-work.md](./conductor/further-work.md).
+
+</td>
+</tr>
+</table>
+
+**Recursive Loop:** Ruliad can be used ON Dex development. The tool builds itself.
 
 ---
 
 ## Quick Start
 
-### Understand the Framework
+```bash
+# Clone the framework
+git clone https://github.com/danichese/Dex_RoboKnix.git
+cd Dex_RoboKnix
 
-1. **[BIDIRECTIONAL_DATA_FRAMEWORK.md](./BIDIRECTIONAL_DATA_FRAMEWORK.md)** ⭐ — Complete conceptual architecture
-2. **[conductor/product.md](./conductor/product.md)** — What Dex is and why it exists
-3. **[conductor/index.md](./conductor/index.md)** — Navigation hub
+# Start with the framework (THE spec)
+cat BIDIRECTIONAL_DATA_FRAMEWORK.md | less
 
-### See It In Action
+# Navigate via conductor
+cat conductor/index.md
 
-**[Ruliad Swarm](https://github.com/danichese/Dex_RoboKnix_Ruliad)** — Multi-agent "synthetic boardroom" (Product #1)
-- 8 parallel agents exploring problems from orthogonal angles
-- Built using Dex framework
-- Demonstrates Bidirectional Data Framework in practice
-
-### Build Something
-
-1. Read [BIDIRECTIONAL_DATA_FRAMEWORK.md](./BIDIRECTIONAL_DATA_FRAMEWORK.md) Layer 5: PROCEDURE
-2. Follow "Creating a New Dex RoboKnix Product" checklist
-3. Run knowledge extraction protocol
-4. Create your own cognitive tool
-
----
-
-## The Bidirectional Value Cascade
-
-### Decomposition (Top-Down)
-
-Start with abstract values, progressively concretize into observable patterns:
-
-```
-VALUES          — What we believe/stand for
-   ↓ Translation
-PRINCIPLES      — How we think/decide
-   ↓ Specification
-POLICY          — What we mandate/allow
-   ↓ Operationalization
-PROCESS         — How we organize work
-   ↓ Codification
-PROCEDURE       — Specific steps/actions
-   ↓ Execution
-PATTERN         — Observable behaviors/data
+# See it in action (Ruliad)
+git clone https://github.com/danichese/Dex_RoboKnix_Ruliad.git
 ```
 
-### Recomposition (Bottom-Up)
-
-Start with observed data, progressively abstract into discovered values:
+### Reading Order
 
 ```
-PATTERN         — What we observe
-   ↑ Inference
-PROCEDURE       — What steps exist
-   ↑ Generalization
-PROCESS         — What workflows emerge
-   ↑ Standardization
-POLICY          — What constraints apply
-   ↑ Abstraction
-PRINCIPLES      — What patterns of thinking appear
-   ↑ Synthesis
-VALUES          — What we actually believe
+1. BIDIRECTIONAL_DATA_FRAMEWORK.md  ← THE framework (start here)
+2. conductor/product.md             ← Why Dex exists
+3. conductor/index.md               ← Navigation hub
+4. Ruliad repo                      ← See it in action
 ```
 
-**Both directions create assets at every layer.**
-
 ---
 
-## What's Been Built
+## Architecture
 
-### Products
-
-| Product | Purpose | Status | Repo |
-|---------|---------|--------|------|
-| **Ruliad Swarm** | Multi-agent parallel exploration | 🟡 Active development | [Dex_RoboKnix_Ruliad](https://github.com/danichese/Dex_RoboKnix_Ruliad) |
-| **Product #2** | _To be defined_ | ⚪ Planned | — |
-
-### Framework Components
-
-| Component | Status | Location |
-|-----------|--------|----------|
-| Value Cascade Framework | ✅ Complete | [BIDIRECTIONAL_DATA_FRAMEWORK.md](./BIDIRECTIONAL_DATA_FRAMEWORK.md) |
-| Conductor System | 🟡 In progress | [conductor/](./conductor/) |
-| Knowledge Extraction Protocol | ✅ Validated | BIDIRECTIONAL_DATA_FRAMEWORK.md Layer 4 |
-| Track Templates | ⚪ Planned | [further-work.md](./conductor/further-work.md) PD1 |
-| Style Guides | ⚪ Planned | [further-work.md](./conductor/further-work.md) PD2 |
-
----
-
-## The Conductor System
-
-**Purpose:** Orchestrate complex projects without losing context.
-
-**Structure:**
 ```
-conductor/
-├── index.md              # Navigation hub
-├── product.md            # What this product is
-├── vision.md             # Long-term direction
-├── tech-stack.md         # Technical decisions
-├── workflow.md           # How we work
-├── tracks.md             # Track registry
-├── further-work.md       # Organized backlog (by cascade layer)
-├── tracks/               # Active work
-│   └── [track-name]/
-│       ├── index.md      # Context
-│       ├── spec.md       # Requirements
-│       ├── plan.md       # Phased implementation
-│       └── metadata.json # Status tracking
-└── code_styleguides/     # Language conventions
-    ├── python.md
-    └── javascript.md
+                      DEX ROBOKNIX FRAMEWORK
+
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   ┌──────────────────┐                                       ║
+║   │    CONDUCTOR     │  ← Project orchestration              ║
+║   │  ──────────────  │                                       ║
+║   │  • tracks/       │    Track-based development            ║
+║   │  • workflow.md   │    TDD + living docs                  ║
+║   │  • styleguides/  │    Code consistency                   ║
+║   └──────────────────┘                                       ║
+║            │                                                 ║
+║            ▼ uses                                            ║
+║   ┌────────────────────────────────────────┐                 ║
+║   │    BIDIRECTIONAL DATA FRAMEWORK        │                 ║
+║   │    VALUES ←→  ...  ←→ PATTERN          │                 ║
+║   └────────────────────────────────────────┘                 ║
+║            │                                                 ║
+║            ▼ validates through                               ║
+║   ┌─────────────┐  ┌─────────────┐  ┌─────────────┐         ║
+║   │   RULIAD    │  │  PRODUCT 2  │  │  PRODUCT N  │         ║
+║   │   SWARM     │  │  (pending)  │  │  (future)   │         ║
+║   └─────────────┘  └─────────────┘  └─────────────┘         ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-**Philosophy:** Documentation IS the work during conceptual phases. Code follows understanding.
+---
+
+## Framework Status
+
+| Layer | Completion | Status | Notes |
+|:------|:-----------|:-------|:------|
+| `VALUES` | ██████████ 100% | 🟢 Complete | Core philosophy established |
+| `PRINCIPLES` | ██████████ 100% | 🟢 Complete | Bidirectionality, asset-based work |
+| `POLICY` | ████████░░ 80% | 🔵 In Progress | [Build to Learn](./conductor/further-work.md#po1) needs validation |
+| `PROCESS` | ████████░░ 80% | 🔵 In Progress | [Priority matrix](./conductor/further-work.md#pr3) defined but not visualized |
+| `PROCEDURE` | ██████░░░░ 60% | 🔵 In Progress | [Track templates](./conductor/further-work.md#pd1) missing |
+| `PATTERN` | ████░░░░░░ 40% | 🔴 Needs Work | Only Ruliad data, need Product #2 |
+
+### 🔴 Known Gaps (Anti-Smug Diagnosis)
+
+**These are features, not bugs. Cyberpunk means admitting what's unproven.**
+
+- **Bidirectionality Proof:** No empirical PATTERN→VALUES discovery yet ([See P1](./conductor/further-work.md#p1))
+- **Transformation Taxonomy:** "Value emerges" lacks mechanism ([See P1](./conductor/further-work.md#p1))
+- **Cross-Product Validation:** Need Product #2 to prove generalizability ([See PA3](./conductor/further-work.md#pa3))
+- **Wrapped System Demo:** "Reinvent wheel" claim is undemonstrated
+
+### ⚡ Critical Path
+
+```
+P1: Formalize transformation types ─────────┐
+                                            │
+PD1: Create track templates ────────────────┼──▶ UNBLOCK ALL
+                                            │
+PA3: Build Product #2 ──────────────────────┘
+```
+
+[See complete backlog →](./conductor/further-work.md)
 
 ---
 
-## Key Concepts
+<div align="center">
 
-### Asset-Based Knowledge Work
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-0066FF?style=for-the-badge&logo=gnu&logoColor=white)](https://www.gnu.org/licenses/gpl-3.0)
+[![Framework](https://img.shields.io/badge/Framework-Dex_RoboKnix-00FF7F?style=for-the-badge)](https://github.com/danichese/Dex_RoboKnix)
+[![Status](https://img.shields.io/badge/Status-Foundation_Complete-FF2400?style=for-the-badge)]()
 
-Every layer of the cascade produces capturable value:
-- **VALUES** → Core beliefs (reusable across products)
-- **PRINCIPLES** → Thinking frameworks (transferable)
-- **POLICY** → Design mandates (composable)
-- **PROCESS** → Workflows (duplicatable)
-- **PROCEDURE** → Specific steps (executable)
-- **PATTERN** → Observed data (queryable)
+**Built with the Bidirectional Data Framework methodology**
 
-Assets are **reusable**, **composable**, **queryable**, **versioned**, and **transferable**.
+*Cyberpunk tools for cyberpunk minds*
 
-### Computational Irreducibility
+[**Documentation**](./BIDIRECTIONAL_DATA_FRAMEWORK.md) • [**Conductor**](./conductor/index.md) • [**Ruliad**](https://github.com/danichese/Dex_RoboKnix_Ruliad)
 
-From Wolfram's Ruliad: some problems cannot be predicted, only computed. Applied to knowledge work:
-- Don't predict what will work; run the process
-- Parallel exploration > serial optimization
-- Tools should enable exploration, not just execution
-
-### Reverse Engineering as Method
-
-The cascade works **both directions**:
-- Forward: decompose existing values into concrete patterns
-- Backward: extract principles from observed behaviors
-- Find exploits in knowledge structures (cyberpunk ethos)
+</div>
 
 ---
 
-## Why Dex RoboKnix?
-
-Traditional productivity tools optimize for *doing more, faster*.
-
-Dex RoboKnix optimizes for **tools that help you think**:
-- Make implicit thinking explicit
-- Capture transformations, not just outcomes
-- Learn while building (tools as learning vehicles)
-- Generate reusable assets from every session
-
-Built for:
-- **Cyberpunk toolbuilders** who want DIY cognitive infrastructure
-- **Knowledge workers** navigating complexity and ambiguity
-- **Learners** who want tools that teach while they work
-- **Reverse engineers** who decompose and rebuild systems
-
----
-
-## Documentation
-
-| Document | Purpose |
-|----------|---------|
-| **[BIDIRECTIONAL_DATA_FRAMEWORK.md](./BIDIRECTIONAL_DATA_FRAMEWORK.md)** | Complete framework (decomposition + recomposition) |
-| **[conductor/product.md](./conductor/product.md)** | What Dex is and why |
-| **[conductor/index.md](./conductor/index.md)** | Navigation hub |
-| **[conductor/further-work.md](./conductor/further-work.md)** | Organized backlog (62 items across cascade layers) |
-
-### Living Documents
-
-All docs are **living** — they evolve with understanding:
-- Update as you learn
-- Track changes in git
-- Document evolution is data
-
----
-
-## Current Status
-
-**Phase:** Conceptual foundation complete, building phase starting
-
-**Completed:**
-- ✅ Value cascade framework defined
-- ✅ Conductor system structured
-- ✅ Knowledge extraction protocol validated (via Ruliad)
-- ✅ Product #1 (Ruliad) in active development
-
-**Next Milestones:**
-1. Create track templates (PD1)
-2. Formalize transformation types (P1)
-3. Build Product #2 to validate framework generalizability (PA3)
-
-See [conductor/further-work.md](./conductor/further-work.md) for complete backlog (62 items).
-
----
-
-## Get Involved
-
-### Use Dex
-
-1. Read [BIDIRECTIONAL_DATA_FRAMEWORK.md](./BIDIRECTIONAL_DATA_FRAMEWORK.md)
-2. Run knowledge extraction on your own work
-3. Build a product using the framework
-4. Share what you learn
-
-### Contribute
-
-- Open issues for gaps or questions
-- Submit PRs with improvements
-- Share new patterns you discover
-- Build products that extend the framework
-
-### Learn More
-
-- **Ruliad Swarm:** [github.com/danichese/Dex_RoboKnix_Ruliad](https://github.com/danichese/Dex_RoboKnix_Ruliad)
-- **Value Cascade:** [BIDIRECTIONAL_DATA_FRAMEWORK.md](./BIDIRECTIONAL_DATA_FRAMEWORK.md)
-- **Philosophy:** [conductor/product.md](./conductor/product.md)
-
----
-
-## Influences
-
-- **Stephen Wolfram's Ruliad** — Computational irreducibility, parallel exploration
-- **Ikem's Social Field Computing** — All data valid, emergent value
-- **Cyberpunk literature** (Gibson, Sterling) — DIY high-tech, subverting systems
-- **Systems thinking** — Decomposition/recomposition patterns
-- **Knowledge management** (Zettelkasten, Second Brain) — But different focus
-
----
-
-## License
-
-GNU General Public License v3.0
-
-Information wants to be free. Cyberpunk ethos. Knowledge tools should be open.
-
-See [LICENSE](./LICENSE) for details.
-
----
-
-## Contact
-
-**Creator:** danichese
-**Project:** Work-to-play priority under divergent day approach
-**Purpose:** Build cutting-edge cognitive tools. Learn while building.
-
----
-
-**"All data is valid. Value emerges from transformation."**
+<pre align="center">
+  "All data is valid. Transformation creates value."
+               — Dex RoboKnix Core Tenet
+</pre>
