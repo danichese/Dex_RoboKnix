@@ -1,7 +1,7 @@
 # Dex RoboKnix: Further Work Backlog
 
-> Organized by Bidirectional Value Cascade layers.
-> Derived from VALUE_CASCADE.md asset inventory and critical gaps analysis.
+> Organized by Bidirectional Data Framework layers.
+> Derived from BIDIRECTIONAL_DATA_FRAMEWORK.md asset inventory and critical gaps analysis.
 
 ---
 
@@ -18,7 +18,7 @@
 ### V1: Explicitly State "Democratizing Expertise" Value
 **Status:** `[ ]`
 **Why:** Implicit in use cases but not articulated. If true, should be explicit.
-**Outcome:** Add to VALUES section of VALUE_CASCADE.md or refute and remove.
+**Outcome:** Add to VALUES section of BIDIRECTIONAL_DATA_FRAMEWORK.md or refute and remove.
 
 ### V2: Deepen Data Value Paradox Resolution
 **Status:** `[ ]`
@@ -306,7 +306,7 @@
 
 ### R7: Asset Inventory Refresh Cadence
 **Status:** `[ ]`
-**Why:** Asset inventory in VALUE_CASCADE.md will get stale.
+**Why:** Asset inventory in BIDIRECTIONAL_DATA_FRAMEWORK.md will get stale.
 **Outcome:** Define refresh cadence:
 - After each product milestone?
 - Monthly?
@@ -377,7 +377,7 @@
 **Why:** If others want to use Dex framework, need guide.
 **Outcome:** Tutorial/guide:
 - What is Dex?
-- How to use value cascade
+- How to use Bidirectional Data Framework
 - How to run extraction
 - How to build a product
 - Examples

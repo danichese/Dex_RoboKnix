@@ -9,7 +9,7 @@
 Dex RoboKnix is both a **methodology** and a **framework** for creating cognitive tools that exploit knowledge structures.
 
 **As Methodology:**
-- A bidirectional value cascade (VALUES ↔ PATTERN) for decomposing and recomposing systems
+- A bidirectional Bidirectional Data Framework (VALUES ↔ PATTERN) for decomposing and recomposing systems
 - An asset-based approach to knowledge work
 - A cognition-lead, LLM-widen model for human-AI collaboration
 
@@ -94,7 +94,7 @@ Those who want to:
 
 Dex RoboKnix is an **umbrella** for cognitive tools. Each product:
 - Uses the conductor system
-- Defines its own value cascade
+- Defines its own Bidirectional Data Framework
 - Contributes learnings back to the framework
 
 ### Ruliad Swarm (Product #1)
@@ -103,7 +103,7 @@ Dex RoboKnix is an **umbrella** for cognitive tools. Each product:
 
 **Why:** Embodies computational irreducibility - instead of predicting the best answer, spawn 8 agents and run the consultation
 
-**Learning:** Validated the value cascade methodology, knowledge extraction protocol, and living documentation pattern
+**Learning:** Validated the Bidirectional Data Framework methodology, knowledge extraction protocol, and living documentation pattern
 
 **Recursive Role:** Ruliad can be used *on* Dex RoboKnix development (meta-tooling)
 
@@ -273,7 +273,7 @@ Dex RoboKnix succeeds when:
 ## Getting Started
 
 ### For Understanding
-1. Read [VALUE_CASCADE.md](../VALUE_CASCADE.md) - the complete framework
+1. Read [BIDIRECTIONAL_DATA_FRAMEWORK.md](../BIDIRECTIONAL_DATA_FRAMEWORK.md) - the complete framework
 2. Explore [Ruliad repo](../../../Dex_RoboKnix_Ruliad/) - see it in action
 3. Review this document for the "why"
 
@@ -294,7 +294,7 @@ Dex RoboKnix succeeds when:
 ## Questions and Answers
 
 **Q: Is Dex RoboKnix just documentation methodology?**
-A: No. Documentation is HOW we capture thinking. The value cascade is the WHAT (framework for decomposition/recomposition). Products are the WHY (tools that teach).
+A: No. Documentation is HOW we capture thinking. The Bidirectional Data Framework is the WHAT (framework for decomposition/recomposition). Products are the WHY (tools that teach).
 
 **Q: Why polyrepo instead of monorepo?**
 A: Each product should be standalone. Conductor duplicated (not shared package) so products remain independent. If patterns emerge, extract later.
@@ -323,7 +323,7 @@ A: It's a *methodological stance* during collection. It forces value to emerge f
 - Systems thinking (decomposition/recomposition patterns)
 
 **Next Steps:**
-- Read [VALUE_CASCADE.md](../VALUE_CASCADE.md) for the complete framework
+- Read [BIDIRECTIONAL_DATA_FRAMEWORK.md](../BIDIRECTIONAL_DATA_FRAMEWORK.md) for the complete framework
 - Explore [Ruliad](../../../Dex_RoboKnix_Ruliad/) to see it in practice
 - Create your own Dex product
 

@@ -8,7 +8,7 @@
 
 Dex RoboKnix is a cyberpunk framework for building cutting-edge cognitive tools through systematic knowledge transformation. It uses a **bidirectional value cascade** to decompose systems, extract assets, and build new tools.
 
-**Read:** [Product Overview](./product.md) | [VALUE_CASCADE.md](../VALUE_CASCADE.md)
+**Read:** [Product Overview](./product.md) | [BIDIRECTIONAL_DATA_FRAMEWORK.md](../BIDIRECTIONAL_DATA_FRAMEWORK.md)
 
 ---
 
@@ -16,7 +16,7 @@ Dex RoboKnix is a cyberpunk framework for building cutting-edge cognitive tools 
 
 ### Understanding Dex
 
-- **[VALUE_CASCADE.md](../VALUE_CASCADE.md)** ⭐ - Complete conceptual architecture
+- **[BIDIRECTIONAL_DATA_FRAMEWORK.md](../BIDIRECTIONAL_DATA_FRAMEWORK.md)** ⭐ - Complete conceptual architecture
   - Values → Principles → Policy → Process → Procedure → Pattern
   - Decomposition (top-down) and recomposition (bottom-up)
   - Asset inventory and critical gaps
@@ -65,18 +65,18 @@ Dex RoboKnix is a cyberpunk framework for building cutting-edge cognitive tools 
 ## Quick Start
 
 ### For Understanding Dex RoboKnix
-1. Read [VALUE_CASCADE.md](../VALUE_CASCADE.md) (the complete framework)
+1. Read [BIDIRECTIONAL_DATA_FRAMEWORK.md](../BIDIRECTIONAL_DATA_FRAMEWORK.md) (the complete framework)
 2. Read [Product Overview](./product.md) (the why)
 3. Explore [Ruliad](../../../Dex_RoboKnix_Ruliad/) (example product)
 
 ### For Building a New Product
-1. Follow [Procedure Layer in VALUE_CASCADE.md](../VALUE_CASCADE.md#layer-5-procedure)
+1. Follow [Procedure Layer in BIDIRECTIONAL_DATA_FRAMEWORK.md](../BIDIRECTIONAL_DATA_FRAMEWORK.md#layer-5-procedure)
 2. Use "Creating a New Dex RoboKnix Product" checklist
 3. Run knowledge extraction protocol
 4. Create conductor/ structure in new repo
 
 ### For Contributing to Framework
-1. Identify gap in VALUE_CASCADE.md or [Further Work](./further-work.md)
+1. Identify gap in BIDIRECTIONAL_DATA_FRAMEWORK.md or [Further Work](./further-work.md)
 2. Create track in [tracks/](./tracks/)
 3. Work through track phases
 4. Update living docs with learnings
@@ -85,11 +85,11 @@ Dex RoboKnix is a cyberpunk framework for building cutting-edge cognitive tools 
 
 ## Key Concepts
 
-### The Bidirectional Data Cascade
+### The Bidirectional Data Framework
 ```
 VALUES ←→ PRINCIPLES ←→ POLICY ←→ PROCESS ←→ PROCEDURE ←→ PATTERN
 ```
-Every layer is an asset. Decompose downward, recompose upward.
+Every layer is an asset. Decompose downward, recompose upward. The framework exhibits bidirectional data flow as a core pattern.
 
 ### Asset-Based Knowledge Work
 Transform thinking into reusable, composable, versioned assets. Each layer of the cascade produces capturable value.

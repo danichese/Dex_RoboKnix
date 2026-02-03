@@ -1,7 +1,10 @@
-# Dex RoboKnix: Bidirectional Value Cascade
+# Dex RoboKnix: Bidirectional Data Framework
 
 > The complete conceptual architecture of Dex RoboKnix organized by transformation layers.
 > Each layer is an asset. Decompose top-down. Recompose bottom-up.
+>
+> **Note:** The framework itself exhibits "bidirectional data flow" - a pattern where data
+> can traverse both directions through the layers.
 
 ---
 
@@ -123,7 +126,7 @@ The Ruliad (entangled limit of all computations) suggests:
 **Scope Decisions:**
 
 **Included in Dex RoboKnix:**
-- The bidirectional value cascade as organizing framework
+- The bidirectional Bidirectional Data Framework as organizing framework
 - The conductor system (track-based development, workflow, style guides)
 - Documentation-first approach (thinking captured in markdown)
 - Living documents that evolve with understanding
@@ -144,7 +147,7 @@ The Ruliad (entangled limit of all computations) suggests:
 | Mandate | Rationale |
 |---------|-----------|
 | Every product uses conductor system | Consistency, knowledge transfer between products |
-| Every product defines its value cascade | Makes thinking explicit, enables reuse |
+| Every product defines its Bidirectional Data Framework | Makes thinking explicit, enables reuse |
 | Documentation lives in repo with code | Single source of truth, versioned together |
 | Commit messages include session URLs | Auditability, context preservation |
 | Living documents preferred over static | Embrace iteration and refinement |
@@ -166,7 +169,7 @@ The Ruliad (entangled limit of all computations) suggests:
 1. **Project Inception Process**
    ```
    Conceptual Phase:
-   → Define value cascade (values → pattern)
+   → Define Bidirectional Data Framework (values → pattern)
    → Create conductor/ structure
    → Write living docs (VISION.md, CONCEPTS.md, QUESTIONS.md)
    → Identify first patterns to implement
@@ -191,7 +194,7 @@ The Ruliad (entangled limit of all computations) suggests:
    - Session notes captured in tracks or docs
 
 4. **Knowledge Extraction Protocol**
-   - Use value cascade interrogation for knowledge transfer
+   - Use Bidirectional Data Framework interrogation for knowledge transfer
    - Layer-by-layer extraction: Values → Pattern
    - Bottom-up recomposition: Pattern → Values
    - Asset inventory at each layer
@@ -264,7 +267,7 @@ repo/
    git add .
    git commit -m "Initial commit: [ProductName] inception"
 
-   # 6. Start value cascade extraction
+   # 6. Start Bidirectional Data Framework extraction
    # Use knowledge extraction protocol to populate VALUE_CASCADE.md
    ```
 
@@ -352,7 +355,7 @@ repo/
 - ✅ Value cascade extraction completed with 47-item backlog
 
 **From Dex RoboKnix Framework:**
-- ✅ Bidirectional value cascade articulated
+- ✅ Bidirectional Bidirectional Data Framework articulated
 - ✅ Conductor system defined structurally
 - ⏳ Templates for new products (in progress)
 - ⏳ Asset inventory methodology (in progress)
@@ -365,7 +368,7 @@ repo/
 
 **What Can Be Demonstrated:**
 
-- The value cascade itself (this document is the proof)
+- The Bidirectional Data Framework itself (this document is the proof)
 - Knowledge extraction protocol (Ruliad session showed it works)
 - Bidirectional analysis (Ruliad backlog shows recomposition)
 - Living documentation approach (both repos use it)
@@ -444,7 +447,7 @@ repo/
 ### PRINCIPLES Layer
 | Asset | Status |
 |-------|--------|
-| Bidirectional value cascade framework | ✅ Complete |
+| Bidirectional Bidirectional Data Framework framework | ✅ Complete |
 | Asset-based knowledge work principle | ✅ Complete |
 | Cognition-lead, LLM-widen model | ✅ Complete |
 | Divergent-convergent rhythm | ✅ Complete |
@@ -562,12 +565,12 @@ Based on critical path analysis:
 ```
 Dex RoboKnix (Framework)
     │
-    ├── Provides: Conductor system, value cascade, methodology
+    ├── Provides: Conductor system, Bidirectional Data Framework, methodology
     ├── Expects: Products to extend/validate framework
     │
     └── Ruliad (Product #1)
             │
-            ├── Uses: Conductor, value cascade, TDD workflow
+            ├── Uses: Conductor, Bidirectional Data Framework, TDD workflow
             ├── Teaches: Multi-agent orchestration, parallel exploration
             └── Feeds back: Further-work.md methodology, living docs pattern
 ```
@@ -595,7 +598,7 @@ This creates self-improvement loop: the tools build themselves.
 - Create tracks for PROCESS-level work
 
 **For Integrating:**
-- New products should complete their own value cascade
+- New products should complete their own Bidirectional Data Framework
 - Compare cascades to find shared infrastructure opportunities
 - Extraction protocol transfers knowledge between sessions
 

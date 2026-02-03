@@ -10,7 +10,7 @@
 
 **Dex RoboKnix** is both a methodology and a framework for creating cognitive tools that exploit knowledge structures.
 
-It's built on a **bidirectional value cascade** — a six-layer system for decomposing complex systems into observable patterns (top-down) and recomposing patterns into actionable frameworks (bottom-up).
+It's built on the **Bidirectional Data Framework** — a six-layer system for decomposing complex systems into observable patterns (top-down) and recomposing patterns into actionable frameworks (bottom-up).
 
 ```
 VALUES ←→ PRINCIPLES ←→ POLICY ←→ PROCESS ←→ PROCEDURE ←→ PATTERN
@@ -49,7 +49,7 @@ Human provides direction, judgment, and creative leaps. LLMs expand scope, chall
 
 ### Understand the Framework
 
-1. **[VALUE_CASCADE.md](./VALUE_CASCADE.md)** ⭐ — Complete conceptual architecture
+1. **[BIDIRECTIONAL_DATA_FRAMEWORK.md](./BIDIRECTIONAL_DATA_FRAMEWORK.md)** ⭐ — Complete conceptual architecture
 2. **[conductor/product.md](./conductor/product.md)** — What Dex is and why it exists
 3. **[conductor/index.md](./conductor/index.md)** — Navigation hub
 
@@ -58,11 +58,11 @@ Human provides direction, judgment, and creative leaps. LLMs expand scope, chall
 **[Ruliad Swarm](https://github.com/danichese/Dex_RoboKnix_Ruliad)** — Multi-agent "synthetic boardroom" (Product #1)
 - 8 parallel agents exploring problems from orthogonal angles
 - Built using Dex framework
-- Demonstrates value cascade in practice
+- Demonstrates Bidirectional Data Framework in practice
 
 ### Build Something
 
-1. Read [VALUE_CASCADE.md](./VALUE_CASCADE.md) Layer 5: PROCEDURE
+1. Read [BIDIRECTIONAL_DATA_FRAMEWORK.md](./BIDIRECTIONAL_DATA_FRAMEWORK.md) Layer 5: PROCEDURE
 2. Follow "Creating a New Dex RoboKnix Product" checklist
 3. Run knowledge extraction protocol
 4. Create your own cognitive tool
@@ -124,9 +124,9 @@ VALUES          — What we actually believe
 
 | Component | Status | Location |
 |-----------|--------|----------|
-| Value Cascade Framework | ✅ Complete | [VALUE_CASCADE.md](./VALUE_CASCADE.md) |
+| Value Cascade Framework | ✅ Complete | [BIDIRECTIONAL_DATA_FRAMEWORK.md](./BIDIRECTIONAL_DATA_FRAMEWORK.md) |
 | Conductor System | 🟡 In progress | [conductor/](./conductor/) |
-| Knowledge Extraction Protocol | ✅ Validated | VALUE_CASCADE.md Layer 4 |
+| Knowledge Extraction Protocol | ✅ Validated | BIDIRECTIONAL_DATA_FRAMEWORK.md Layer 4 |
 | Track Templates | ⚪ Planned | [further-work.md](./conductor/further-work.md) PD1 |
 | Style Guides | ⚪ Planned | [further-work.md](./conductor/further-work.md) PD2 |
 
@@ -213,7 +213,7 @@ Built for:
 
 | Document | Purpose |
 |----------|---------|
-| **[VALUE_CASCADE.md](./VALUE_CASCADE.md)** | Complete framework (decomposition + recomposition) |
+| **[BIDIRECTIONAL_DATA_FRAMEWORK.md](./BIDIRECTIONAL_DATA_FRAMEWORK.md)** | Complete framework (decomposition + recomposition) |
 | **[conductor/product.md](./conductor/product.md)** | What Dex is and why |
 | **[conductor/index.md](./conductor/index.md)** | Navigation hub |
 | **[conductor/further-work.md](./conductor/further-work.md)** | Organized backlog (62 items across cascade layers) |
@@ -250,7 +250,7 @@ See [conductor/further-work.md](./conductor/further-work.md) for complete backlo
 
 ### Use Dex
 
-1. Read [VALUE_CASCADE.md](./VALUE_CASCADE.md)
+1. Read [BIDIRECTIONAL_DATA_FRAMEWORK.md](./BIDIRECTIONAL_DATA_FRAMEWORK.md)
 2. Run knowledge extraction on your own work
 3. Build a product using the framework
 4. Share what you learn
@@ -265,7 +265,7 @@ See [conductor/further-work.md](./conductor/further-work.md) for complete backlo
 ### Learn More
 
 - **Ruliad Swarm:** [github.com/danichese/Dex_RoboKnix_Ruliad](https://github.com/danichese/Dex_RoboKnix_Ruliad)
-- **Value Cascade:** [VALUE_CASCADE.md](./VALUE_CASCADE.md)
+- **Value Cascade:** [BIDIRECTIONAL_DATA_FRAMEWORK.md](./BIDIRECTIONAL_DATA_FRAMEWORK.md)
 - **Philosophy:** [conductor/product.md](./conductor/product.md)
 
 ---
