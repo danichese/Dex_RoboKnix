@@ -9,7 +9,7 @@
 Dex RoboKnix is both a **methodology** and a **framework** for creating cognitive tools that exploit knowledge structures.
 
 **As Methodology:**
-- A bidirectional Bidirectional Data Framework (VALUES ↔ PATTERN) for decomposing and recomposing systems
+- The Bidirectional Data Framework (VALUES ↔ PATTERN) for decomposing and recomposing systems
 - An asset-based approach to knowledge work
 - A cognition-lead, LLM-widen model for human-AI collaboration
 
@@ -156,7 +156,7 @@ From Wolfram's Ruliad:
 
 ## How It Works
 
-### The Bidirectional Value Cascade
+### The Bidirectional Data Framework
 
 ```
 DECOMPOSITION (Top-Down)          RECOMPOSITION (Bottom-Up)
@@ -253,7 +253,7 @@ Dex RoboKnix succeeds when:
 **Phase:** Conceptual foundation complete, building phase starting
 
 **Completed:**
-- ✅ Value cascade framework defined
+- ✅ Bidirectional Data Framework defined
 - ✅ Conductor system structured
 - ✅ Knowledge extraction protocol validated (via Ruliad)
 - ✅ Product #1 (Ruliad) in active development

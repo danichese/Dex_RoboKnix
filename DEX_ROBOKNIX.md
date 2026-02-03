@@ -115,9 +115,9 @@ Each product is its own repository. Shared patterns are duplicated, not packaged
 
 Every product uses the conductor system. Every product defines its Bidirectional Data Framework. Documentation lives with code. Commit messages preserve context.
 
-### Self-First Development
+### Self-First Validation
 
-Build for yourself first. Validate with your own use. Only generalize after personal validation. "Would I use this daily?" is the acceptance test.
+The acceptance test: "Would I use this daily?" No shipping until the `#creator` has validated through personal use. Generalization only after self-validation passes.
 
 ---
 
@@ -163,7 +163,7 @@ DEX ROBOKNIX (Entity)
 │   • Terminal-first, web optional
 │   • Polyrepo structure
 │   • Methodology-driven development
-│   • Self-first development
+│   • Self-first validation
 │
 └── TOOLS & PRODUCTS
     │
@@ -182,11 +182,22 @@ DEX ROBOKNIX (Entity)
 
 ---
 
+## Entity Ownership
+
+**Dex RoboKnix is a singular entity.** There is only one.
+
+| Asset Class | Assignment |
+|-------------|------------|
+| `#creator` | danichese |
+| `#entity` | Dex RoboKnix |
+
+The entity "Dex RoboKnix" is permanently assigned to the `#creator` asset class. This is not transferable.
+
 ## For Those Who Clone
 
-If you clone this repository, you are not using Dex RoboKnix. You are **instantiating yourself as the entity**.
+If you clone this repository, you are not using Dex RoboKnix. You are **instantiating yourself as a new entity**.
 
-The internal frame (danichese + Claude Code) becomes (you + your AI tooling). The values, principles, and policies become yours to adapt. The tools remain the same, but the entity is now you.
+You become `#creator` of YOUR entity. The tools (BDF, Conductor) transfer. The entity name does not. You fork the pattern, not the identity.
 
 This is by design. Dex RoboKnix is a pattern for cognitive extension, not a product to consume.
 

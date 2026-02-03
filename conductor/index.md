@@ -6,7 +6,9 @@
 
 ## What is Dex RoboKnix?
 
-Dex RoboKnix is a cyberpunk framework for building cutting-edge cognitive tools through systematic knowledge transformation. It uses a **bidirectional value cascade** to decompose systems, extract assets, and build new tools.
+Dex RoboKnix is an entity for building cutting-edge cognitive tools through systematic knowledge transformation. It uses the **Bidirectional Data Framework** to decompose systems, extract assets, and build new tools.
+
+**Read:** [DEX_ROBOKNIX.md](../DEX_ROBOKNIX.md) (entity definition)
 
 **Read:** [Product Overview](./product.md) | [BIDIRECTIONAL_DATA_FRAMEWORK.md](../BIDIRECTIONAL_DATA_FRAMEWORK.md)
 
@@ -45,7 +47,7 @@ Dex RoboKnix is a cyberpunk framework for building cutting-edge cognitive tools 
 
 - **[Tracks Registry](./tracks.md)** - All active and completed tracks
 - **[Tracks Directory](./tracks/)** - Individual track workspaces
-- **[Further Work Backlog](./further-work.md)** - Organized by value cascade layers
+- **[Further Work Backlog](./further-work.md)** - Organized by framework layers
 
 ---
 
@@ -55,7 +57,7 @@ Dex RoboKnix is a cyberpunk framework for building cutting-edge cognitive tools 
 - **Repository:** [Dex_RoboKnix_Ruliad](../../../Dex_RoboKnix_Ruliad/)
 - **Purpose:** Multi-agent "synthetic boardroom" for parallel problem exploration
 - **Status:** Core implementation in progress
-- **Key Learning:** Validated value cascade methodology, living documentation pattern
+- **Key Learning:** Validated Bidirectional Data Framework, living documentation pattern
 
 ### Future Products
 - _Product pipeline to be defined in [conductor/products-pipeline.md](./products-pipeline.md)_
