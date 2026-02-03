@@ -80,7 +80,7 @@ Knowledge work under complexity, ambiguity, and rapid change. Specifically:
 
 **Key Conceptual Frameworks:**
 
-1. **The Bidirectional Value Cascade**
+1. **The Bidirectional Data Framework**
    - 6 layers: Values → Principles → Policy → Process → Procedure → Pattern
    - Downward = decomposition (translation, specification, operationalization, codification, execution)
    - Upward = recomposition (inference, generalization, standardization, abstraction, synthesis)
@@ -126,7 +126,7 @@ The Ruliad (entangled limit of all computations) suggests:
 **Scope Decisions:**
 
 **Included in Dex RoboKnix:**
-- The bidirectional Bidirectional Data Framework as organizing framework
+- The Bidirectional Data Framework as organizing methodology
 - The conductor system (track-based development, workflow, style guides)
 - Documentation-first approach (thinking captured in markdown)
 - Living documents that evolve with understanding
@@ -352,7 +352,7 @@ repo/
 - ✅ Multi-agent Swarm produces JSON output (core computation works)
 - ⏳ Integration gap: TUI ↔ JSON pipeline needs wiring
 - ✅ Comprehensive documentation using conductor system
-- ✅ Value cascade extraction completed with 47-item backlog
+- ✅ Framework extraction completed with 47-item backlog
 
 **From Dex RoboKnix Framework:**
 - ✅ Bidirectional Bidirectional Data Framework articulated
