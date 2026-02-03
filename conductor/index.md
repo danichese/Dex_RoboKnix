@@ -85,7 +85,7 @@ Dex RoboKnix is a cyberpunk framework for building cutting-edge cognitive tools 
 
 ## Key Concepts
 
-### The Bidirectional Value Cascade
+### The Bidirectional Data Cascade
 ```
 VALUES ←→ PRINCIPLES ←→ POLICY ←→ PROCESS ←→ PROCEDURE ←→ PATTERN
 ```
