@@ -355,7 +355,7 @@ repo/
 - ✅ Framework extraction completed with 47-item backlog
 
 **From Dex RoboKnix Framework:**
-- ✅ Bidirectional Bidirectional Data Framework articulated
+- ✅ Bidirectional Data Framework articulated
 - ✅ Conductor system defined structurally
 - ⏳ Templates for new products (in progress)
 - ⏳ Asset inventory methodology (in progress)
@@ -447,7 +447,7 @@ repo/
 ### PRINCIPLES Layer
 | Asset | Status |
 |-------|--------|
-| Bidirectional Bidirectional Data Framework framework | ✅ Complete |
+| Bidirectional Data Framework | ✅ Complete |
 | Asset-based knowledge work principle | ✅ Complete |
 | Cognition-lead, LLM-widen model | ✅ Complete |
 | Divergent-convergent rhythm | ✅ Complete |
@@ -486,7 +486,7 @@ repo/
 |-------|--------|
 | Ruliad TUI working | ✅ Complete |
 | Ruliad JSON output working | ✅ Complete |
-| Value cascade document (this) | ✅ Complete |
+| Framework document (this) | ✅ Complete |
 | Ruliad 47-item backlog | ✅ Complete |
 | Priority matrix visualization | ❌ Missing |
 | Product #2 ideas | ❌ Missing |
